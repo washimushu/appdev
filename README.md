@@ -2,6 +2,13 @@
 My First Repository
 
 **FAVORITE MOVIES**
-1. Despicable ME
-2. Moana
-3. Encanto
+- Despicable ME
+- Moana
+- Encanto
+
+## Games that I play
+- League Of Legends
+- Valorant
+- Dota 2
+- Overwatch 2
+- Deadlock
